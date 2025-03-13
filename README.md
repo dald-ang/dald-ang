@@ -5,6 +5,7 @@
 - 📫 How to reach me by email!!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to watch animation or webtoon!
+안녕!
 
 <!---
 dald-ang/dald-ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
